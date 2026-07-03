@@ -1,7 +1,7 @@
 # Student Information Manager CLI Project
 <br>
 <br>
-<h1> ====== Student Information Manager ====== </h1><br>
+<h3> ====== Student Information Manager ====== </h3><br>
 <p>
       1. Add Student<br>
       2. View Students<br>
